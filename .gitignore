@@ -61,4 +61,4 @@ node_modules
 materials
 
 # my version
-dist
+node_modules
